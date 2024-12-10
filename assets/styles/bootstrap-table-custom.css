@@ -1,0 +1,7 @@
+.table thead, .fix-sticky thead{background-color:#01c0c8;}
+.table thead tr th, .fix-sticky thead tr th{color:#555; border-right:1px solid #eee !important;}
+.table thead tr th .th-inner, .fix-sticky thead tr th .th-inner{padding-top: 12px; padding-bottom: 12px; line-height: 15px}
+.table{background-color: #efefef; color:#333}
+.table td{color:#333}
+.fixed-table-container .fix-sticky{top:52px !important}
+.fix-sticky {z-index:9 !important}
